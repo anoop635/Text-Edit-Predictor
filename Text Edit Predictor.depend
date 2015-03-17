@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1426596111 source:c:\users\raghu\documents\text edit predictor\main.cpp
+	<iostream>
+	<ctype.h>
+	"trie.h"
+	"trie_node.h"
+
+1426594708 c:\users\raghu\documents\text edit predictor\include\trie.h
+	"trie_node.h"
+	<bits/stdc++.h>
+
+1426593791 c:\users\raghu\documents\text edit predictor\include\trie_node.h
+
+1426596199 source:c:\users\raghu\documents\text edit predictor\src\trie.cpp
+	"trie.h"
+	<iostream>
+	<vector>
+	<string>
+	<cstring>
+	<typeinfo>
+	<utility>
+
+1426596061 source:c:\users\raghu\documents\text edit predictor\src\trie_node.cpp
+	"trie_node.h"
+	<iostream>
+	<vector>
+	<string>
+	<cstring>
+	<typeinfo>
+	<utility>
+
